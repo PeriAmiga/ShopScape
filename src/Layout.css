@@ -1,0 +1,27 @@
+.navigation-container, .logo {
+    display: flex;
+    justify-content: center;
+}
+
+.layout {
+    background-color: #f8f9fa;
+    margin-bottom: 50px;
+    font-size: 49px;
+    font-weight: bold;
+}
+
+.search-container {
+    position: relative;
+    left: 1400px;
+    bottom: 100px;
+    width: 200px;
+    margin-bottom: -50px;
+}
+
+.search {
+    display: flex;
+}
+
+.searchIcon {
+    cursor: pointer;
+}
