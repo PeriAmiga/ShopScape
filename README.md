@@ -6,12 +6,12 @@
 </head>
 <body>
 
-<h1 style="text-align: center;">ShopScape - ReactJS Project</h1>
-
-<div style="display: flex; justify-content: center;">
+<div align="center">
+	<h1 style="text-align: center;">ShopScape - ReactJS Project</h1>
     <img src="./src/pictures/logo.png" alt="Logo" style="max-width: 100%; ">
+	<br/>
+	<p>Link to the web: <a href="https://shopscape-fed.netlify.app/">ShopScape Website Link</a></p>
 </div>
-<p>Link to the web: <a href="https://shopscape-fed.netlify.app/">ShopScape Website Link</a></p>
 
 <h2>Overview</h2>
 <p>This is an online shop project developed using ReactJS. It allows users to browse through various product categories, add items to their cart, and make purchases.</p>
